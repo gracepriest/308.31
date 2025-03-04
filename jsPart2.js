@@ -27,14 +27,7 @@ while(isFound != true)
                 
     }
 }
-    
-
  
-
-
-
-
-
 document.write("</div>") 
 document.write("</div>")       
 
@@ -62,12 +55,11 @@ while(isFound != true)
         isFound = true
         let newContent = document.createElement("p");
         newContent.textContent = "Number: " + n + " is prime"
-        newContent.style.marginLeft = "1em"
+        newContent.style.marginLeft = "0.5em"
+        newContent.style.fontSize ="30px"
         document.getElementById("mainCard").appendChild(newContent)
         
     }
 }
-
- 
 
 }
