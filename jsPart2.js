@@ -7,11 +7,11 @@ let isFound = false
 //start at 2 we know 1 is good
 while(isFound != true)
 {
-    n++
+    n++  
     let isPrime = true
     for(let i = 2; i < n; i++)
     {
-
+            
         if(n %  i == 0)
         {
             isPrime = false

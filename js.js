@@ -16,7 +16,7 @@ else if(i % 5 == 0)
         document.write("Buzz")
     }
     else{
-        document.write(" number is not divisible ")
+        document.write("number is not divisible ")
     }
      
 document.write("<br>")
