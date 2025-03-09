@@ -26,8 +26,8 @@ document.write("</div>")
  document.write("</div>")       
 
 
- document.write('<div class="container"><div class="card float-start"><div class="card-header"><h2>Part 1</h2></div>')
-document.write('<div class="card-body">')
+//  document.write('<div class="container"><div class="card float-start"><div class="card-header"><h2>Part 1</h2></div>')
+// document.write('<div class="card-body">')
 //using while loop instead
 // let n = 1
 // while(n < 101 )

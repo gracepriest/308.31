@@ -138,3 +138,4 @@ tbody.appendChild(tr5)
 table.appendChild(tbody)
 
 document.write("</table>")
+console.log(row)
